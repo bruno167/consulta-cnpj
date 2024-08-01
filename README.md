@@ -22,9 +22,13 @@ Este projeto permite aos usuários consultar informações detalhadas sobre um C
 
 ### Imagens do Projeto
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+<div style="display: flex; gap: 10px;">
+
+  <img src="images/screenshot1.png" alt="Screenshot 1" width="300"/>
+  <img src="images/screenshot2.png" alt="Screenshot 2" width="300"/>
+  <img src="images/screenshot3.png" alt="Screenshot 3" width="300"/>
+
+</div>
 
 
 ## Tecnologias Utilizadas 🛠️
@@ -75,7 +79,7 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 
 ## Licença 📝
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](License) para mais detalhes.
 
 ## Contato 📧
 
