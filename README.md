@@ -5,13 +5,12 @@ Uma aplicação web simples para consultar informações de CNPJ utilizando a AP
 ## Índice
 
 - [Visão Geral](#visão-geral)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Funcionalidades](#funcionalidades)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+- [Tecnologias Utilizadas](#Tecnologias-Utilizadas-🛠️)
+- [Instalação](#Instalação-⚙️)
+- [Uso](#Uso-🚀)
+- [Contribuição](#Contribuição-🤝)
+- [Licença](#Licença-📝)
+- [Contato](#Contato-📧)
 
 ## Visão Geral
 
