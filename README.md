@@ -1,7 +1,4 @@
-Aqui está um exemplo de README.md para o seu projeto de consulta de CNPJ. O README inclui uma descrição clara do projeto, instruções de instalação e uso, e informações sobre as tecnologias utilizadas.
-
-```markdown
-# Consulta CNPJ
+# Consulta CNPJ 🕵️‍♂️
 
 Uma aplicação web simples para consultar informações de CNPJ utilizando a API da BrasilAPI.
 
@@ -18,19 +15,27 @@ Uma aplicação web simples para consultar informações de CNPJ utilizando a AP
 
 ## Visão Geral
 
-Este projeto permite aos usuários consultar informações detalhadas sobre um CNPJ (Cadastro Nacional da Pessoa Jurídica) no Brasil. A aplicação faz uso da API da BrasilAPI para obter os dados e exibi-los de maneira organizada e fácil de entender.
+Este projeto permite aos usuários consultar informações detalhadas sobre um CNPJ (Cadastro Nacional da Pessoa Jurídica) no Brasil. A aplicação faz uso da API da BrasilAPI para obter os dados e exibi-los de maneira organizada e fácil de entender. 
 
-## Tecnologias Utilizadas
-
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Bootstrap 5.3.3](https://getbootstrap.com/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [jQuery](https://jquery.com/)
 - [Inputmask](https://github.com/RobinHerbots/Inputmask)
 - [BrasilAPI](https://brasilapi.com.br/)
 
-## Instalação
+### Imagens do Projeto
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+
+
+## Tecnologias Utilizadas 🛠️
+
+- ![Html5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![jQuery badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+## Instalação ⚙️
 
 1. Clone o repositório para o seu ambiente local:
 
@@ -46,20 +51,19 @@ Este projeto permite aos usuários consultar informações detalhadas sobre um C
 
 3. Abra o arquivo `index.html` no seu navegador preferido.
 
-## Uso
+## Uso 🚀
 
 1. Insira um número de CNPJ válido no campo de entrada.
 2. Clique no botão "Consultar".
 3. Aguarde enquanto os dados são buscados e exibidos na página.
 
-## Funcionalidades
+## Funcionalidades ✨
 
 - Máscara de entrada para formatação correta do CNPJ.
 - Consulta de CNPJ utilizando a API da BrasilAPI.
 - Exibição de informações detalhadas sobre o CNPJ.
-- Tratamento de erros e exibição de mensagens apropriadas.
 
-## Contribuição
+## Contribuição 🤝
 
 Se você deseja contribuir para este projeto, siga os passos abaixo:
 
@@ -69,13 +73,12 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## Licença
+## Licença 📝
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
+## Contato 📧
 
 Bruno - [brunoa0504@gmail.com](mailto:brunoa0504@gmail.com)
 
 Projeto Link: [https://github.com/bruno167/consulta-cnpj](https://github.com/bruno167/consulta-cnpj)
-```
