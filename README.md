@@ -24,9 +24,9 @@ Este projeto permite aos usuários consultar informações detalhadas sobre um C
 
 <div style="display: flex; gap: 10px;">
 
-  <img src="screenshot1.png" alt="Screenshot home" width="300"/>
-  <img src="screenshot2.png" alt="Screenshot result" width="300"/>
-  <img src="screenshot3.png" alt="Screenshot mobile" width="300"/>
+  <img src="screenshot1.png" alt="Screenshot home" width="300" height="400"/>
+  <img src="screenshot2.png" alt="Screenshot result" width="300" height="400"/>
+  <img src="screenshot3.png" alt="Screenshot mobile" width="300" height="400"/>
 
 </div>
 
